@@ -1,3 +1,10 @@
+
+node_modules/
+*.zip
+.DS_Store
+.idea
+notes.md
 videos
 starter_files/stepped-solutions
 starter_files/catch-of-the-day/node_modules
+
